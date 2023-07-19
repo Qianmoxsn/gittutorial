@@ -9,3 +9,7 @@ int main(){
 void funcccc(){
     printf("Hello");
 }
+
+void funcccc11(){
+    printf("Hello11");
+}
