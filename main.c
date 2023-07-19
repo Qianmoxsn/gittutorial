@@ -4,3 +4,7 @@ int main(){
     printf("Hello World!\n");
     return 0;
 }
+
+void funcccc(){
+    printf("Hello");
+}
