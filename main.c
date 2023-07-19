@@ -2,6 +2,10 @@
 
 int main(){
     printf("Hello World!\n");
-    printf("3Q")
+    
     return 0;
+}
+
+void print_email_wtl(){
+    print("wtl02@bupt.edu.cn");
 }
