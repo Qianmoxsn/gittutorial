@@ -17,3 +17,7 @@ void funcccc11(){
 void email_print_wtl(){
     printf("wtl02@bupt.edu.cn");
 }
+
+void email_print_wtl(){
+    printf("158997236@qq.com");
+}
