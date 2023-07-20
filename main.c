@@ -18,6 +18,6 @@ void email_print_wtl(){
     printf("wtl02@bupt.edu.cn");
 }
 
-void email_print_wtl(){
+void email_print_bxy(){
     printf("158997236@qq.com");
 }
