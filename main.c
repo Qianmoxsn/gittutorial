@@ -18,7 +18,11 @@ void email_print_wtl(){
     printf("wtl02@bupt.edu.cn");
 }
 
-void email_print_SHR(void)
-{
+
+void email_print_bxy(){
+    printf("158997236@qq.com");
+}
+
+void email_print_SHR(void){
     printf("s_discovery@163.com");
 }
