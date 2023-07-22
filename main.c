@@ -26,3 +26,7 @@ void email_print_bxy(){
 void email_print_SHR(void){
     printf("s_discovery@163.com");
 }
+
+void email_print_wzw(void){
+    printf("1355815270@qq.com");
+}
